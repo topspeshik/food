@@ -1,16 +1,20 @@
 {
-  "training": [
+  "food": [
     {
       "id": 1,
-      "name": "Жим лежа",	
-      "urlimg": "https://www.mentoday.ru/upload/custom/746/746ee94bc879d6c2b2f18b71a274409d.jpg",
-      "urlgif": "https://media.tenor.com/0hoNLcggDG0AAAAC/bench-press.gif"
+      "name": "Филе куриное",	
+      "proteins": "23",
+      "fats": "1",
+      "carb": "0",
+      "kcal": "110"
     },
      {
       "id": 2,
-      "name": "Приседания",	
-      "urlimg": "https://egoiste.in.ua/uploads/images/blog/1566377887_prised.jpg",
-      "urlgif": "https://media.tenor.com/1NY6qOs30XIAAAAC/goblet-squad.gif"
+      "name": "Филе куриное",	
+      "proteins": "13",
+      "fats": "3",
+      "carb": "71",
+      "kcal": "343"
     }
   ],
   "update": 
